@@ -1,0 +1,17 @@
+
+h1 {
+    color: rgb(8, 214, 250);
+}
+
+
+.Senorita{
+    border: 2px dashed;
+    
+}
+.grid{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border: 3px solid;
+  color:rgb(237, 253, 9)
+}
